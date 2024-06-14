@@ -1,0 +1,55 @@
+*+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    width: 85%;
+    margin: 30px auto ;
+
+}
+
+
+
+
+
+
+h1 {
+    color:rgb(179, 120, 19) ;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form{
+    margin: 20px  25px;
+}
+
+label{
+    color: rgb(179, 120, 19) ;
+    text-transform: uppercase;
+}
+#v1, #v2{
+    width: 300px ;
+    height: 25px; 
+    padding-left: 5px;
+    font-size: 17px;
+}
+#btn {
+    width: 100px;
+    height: 25px;
+    font-size: 17px;
+    color: rgb(179, 120, 19) ;
+    background-color: antiquewhite;
+}
+
+div{
+    border: rgb(179, 120, 19) solid 1px ;
+    padding: 15px;
+    margin-top: 20px;
+    box-shadow: 0 0 3px 2px  rgb(179, 120, 19) ;
+}
+.text {
+    margin-bottom: 5px;
+}
